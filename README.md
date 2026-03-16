@@ -1,36 +1,35 @@
 # Olá, eu sou o Diogo! 👋
 
-Sou um desenvolvedor interessado em criar soluções inteligentes com **Python** e interfaces modernas com **JS** e **CSS**. Gosto de unir a lógica do backend com o design do frontend.
+Desenvolvedor em transição para o **Back-end**. Sou apaixonado por resolver problemas complexos através da lógica e por construir as engrenagens que fazem as aplicações funcionarem.
 
 ---
 
-### 🚀 Minhas Tecnologias
+### ⚙️ Meu Arsenal Back-end
+As tecnologias que utilizo para construir a base das aplicações:
 
-**Backend & Automação**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Frontend & Estilo**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-### 🛠️ No que estou trabalhando?
-
-* 🐍 **Chatbot Python:** Desenvolvendo fluxos de conversa inteligentes.
-* 🎨 **Estilos & UI:** Explorando novas formas de estilização com CSS moderno.
-* 🌐 **Integrações JS:** Conectando o frontend com APIs e serviços externos.
+> **Nota:** Também domino a base de **HTML** e **CSS** para garantir uma integração fluida com o Frontend.
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
+### 🧠 No laboratório (Estudos)
+Meu foco atual é entender o que acontece por trás das cortinas:
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diogo-Farias95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Farias95&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+- 🛠️ **APIs:** Estudando como criar comunicações eficientes entre sistemas.
+- 🗄️ **Banco de Dados:** Aprendendo a estruturar e consultar informações.
+- 🤖 **Automação:** Aperfeiçoando scripts em Python para otimizar tarefas.
 
 ---
 
+### 🚀 Projetos em Destaque
+- 💬 **Chatbot Python:** Um dos meus primeiros desafios resolvendo lógica de conversação.
+- 📂 **Estrutura de Dados:** Organizando meu aprendizado em lógica e algoritmos.
+
+---
+
+### 📫 Vamos trocar uma ideia?
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/SEU-PERFIL-AQUI)
