@@ -27,7 +27,6 @@ Meu foco atual é entender o que acontece por trás das cortinas:
 
 ### 🚀 Projetos em Destaque
 - 💬 **Chatbot Python:** Um dos meus primeiros desafios resolvendo lógica de conversação.
-- 📂 **Estrutura de Dados:** Organizando meu aprendizado em lógica e algoritmos.
 
 ---
 
